@@ -1,2 +1,2 @@
 # ImageGalleryUsingFlexbox
-This project using flexbox to create image gallery
+This project is using flexbox to create image gallery
